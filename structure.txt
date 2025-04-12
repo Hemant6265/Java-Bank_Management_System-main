@@ -1,0 +1,46 @@
+.
+├── Extras
+│   ├── Reports
+│   │   ├── PPT_SEITA_19.pptx
+│   │   └── ProjectReport_SEITA_19.pdf
+│   └── Screenshots
+│       ├── Flowchart.png
+│       ├── SystemDesign.png
+│       ├── ss1.png
+│       ├── ss10.png
+│       ├── ss2.png
+│       ├── ss3.png
+│       ├── ss4.png
+│       ├── ss5.png
+│       ├── ss6.png
+│       ├── ss7.png
+│       ├── ss8.png
+│       └── ss9.png
+├── README.md
+├── jar_files
+│   └── sqlite-jdbc-3.21.0.jar
+├── mysql-connector-java-5.1.49
+│   └── mysql-connector-java-5.1.49
+│       ├── CHANGES
+│       ├── COPYING
+│       ├── README
+│       ├── README.txt
+│       ├── build.xml
+│       ├── mysql-connector-java-5.1.49-bin.jar
+│       ├── mysql-connector-java-5.1.49.jar
+│       └── src
+├── sanbank
+│   ├── build.xml
+│   ├── database
+│   │   └── sanbank.sql
+│   ├── manifest.mf
+│   ├── nbproject
+│   │   ├── build-impl.xml
+│   │   ├── genfiles.properties
+│   │   ├── project.properties
+│   │   └── project.xml
+│   └── src
+│       └── bank
+└── structure.txt
+
+13 directories, 31 files
