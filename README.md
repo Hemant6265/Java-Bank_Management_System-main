@@ -74,3 +74,20 @@ sanbank/database/sanbank.sql
 	•	Click on Run ▶️ in NetBeans
 
 ✅ Done! Enjoy exploring the features!
+
+
+📄 License
+
+This project is intended for educational purposes only.
+© 2025 Hemant Kumar. All rights reserved.
+
+---
+
+### 📥 How to use it:
+1. Create a file named `README.md` in the root of your project (if not already there).
+2. Paste this content into it.
+3. Commit and push:
+   ```bash
+   git add README.md
+   git commit -m "Added professional README"
+   git push origin main
