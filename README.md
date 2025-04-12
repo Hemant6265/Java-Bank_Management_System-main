@@ -89,5 +89,5 @@ This project is intended for educational purposes only.
 3. Commit and push:
    ```bash
    git add README.md
-   git commit -m "Added professional README"
+   git commit -m 
    git push origin main
